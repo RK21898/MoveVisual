@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "463401732195",
+    "firebase_url": "https://movevisual-34e85.firebaseio.com",
+    "project_id": "movevisual-34e85",
+    "storage_bucket": "movevisual-34e85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463401732195:android:c086e92d7c4bae2b1e9056",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.MoveVisual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463401732195-53veaids4u4s811r1t14ej008um4ffpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-FTPY_v9_KQyBnRJoIT8476ZZSAmq6ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463401732195-53veaids4u4s811r1t14ej008um4ffpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463401732195:android:1b7d6e28ad94ca1c1e9056",
+        "android_client_info": {
+          "package_name": "com.example.movevisual_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463401732195-53veaids4u4s811r1t14ej008um4ffpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-FTPY_v9_KQyBnRJoIT8476ZZSAmq6ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463401732195-53veaids4u4s811r1t14ej008um4ffpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
